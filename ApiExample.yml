@@ -89,4 +89,8 @@ endpoints:
      name: retrieve
      path: *retrieve
      headers: Accept, uuid, Content-type, sid
-         
+
+
+value:
+  test:
+    retieve: este es un demo  
